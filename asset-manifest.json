@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CadastroProdutos/static/css/main.595d51cb.css",
+    "main.js": "/CadastroProdutos/static/js/main.2ee6736d.js",
+    "index.html": "/CadastroProdutos/index.html",
+    "main.595d51cb.css.map": "/CadastroProdutos/static/css/main.595d51cb.css.map",
+    "main.2ee6736d.js.map": "/CadastroProdutos/static/js/main.2ee6736d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595d51cb.css",
+    "static/js/main.2ee6736d.js"
+  ]
+}
